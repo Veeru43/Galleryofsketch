@@ -26,7 +26,7 @@ SECRET_KEY = 'ci0a_hv7_s_n#_=!)k+&qk(4#2kse-94r2fe7f^acr-*juocu6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://galleryofsketches.herokuapp.com/']
+ALLOWED_HOSTS = ['https://galleryofsketches.herokuapp.com/','127.0.0.1','0.0.0.0']
 
 
 # Application definition
