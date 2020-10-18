@@ -24,9 +24,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ci0a_hv7_s_n#_=!)k+&qk(4#2kse-94r2fe7f^acr-*juocu6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://galleryofsketches.herokuapp.com/']
 
 
 # Application definition
